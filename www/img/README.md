@@ -2,7 +2,15 @@
 
 ![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico) 
 
-https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico 
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico  
+
+![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/avatar.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/avatar.png  
+
+![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png 
 
 ![apple-touch-icon-silver.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/apple-touch-icon-silver.png) 
 
