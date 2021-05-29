@@ -1,3 +1,15 @@
 图片文件清单 
-![logo.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo.png) 
+![favicon.ico](favicon.ico)
+![apple-touch-icon-silver.png](apple-touch-icon-silver.png)
+![apple-touch-icon.png](apple-touch-icon.png)
+![favicon-silver.png](favicon-silver.png)
+![favicon.png](favicon.png)
+![logo-gold.png](logo-gold.png)
+![logo-gold03.png](logo-gold03.png)
+![logo-gold262.png](logo-gold262.png)
+![logo-noimg.png](logo-noimg.png)
+![logo-silver.png](logo-silver.png)
+![logo-silver03.png](logo-silver03.png)
+![logo-silver262.png](logo-silver262.png)
+![logo.png](logo.png)
 
