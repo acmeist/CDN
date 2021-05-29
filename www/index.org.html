@@ -11,7 +11,10 @@
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script>
         $(function () {
-
+	  var myDate = new Date();
+	  //获取当前年
+	  var year = myDate.getFullYear();
+	  $("#copyright").html("© " + year + " Aikiki");
         })
     </script>
 	<script>
