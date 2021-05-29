@@ -2,6 +2,8 @@
 
 ![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico) 
 
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico 
+
 ![apple-touch-icon-silver.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/apple-touch-icon-silver.png) 
 
 ![apple-touch-icon.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/apple-touch-icon.png) 
