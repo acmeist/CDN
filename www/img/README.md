@@ -1,16 +1,40 @@
-图片文件清单 
+# favicon 
 
 ![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico) 
 
 https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.ico  
 
-![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/avatar.png) 
+![favicon.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.png 
+
+# avatar 
+
+![avatar.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/avatar.png) 
 
 https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/avatar.png  
 
-![favicon.ico](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png) 
+# icp 
+
+![icp.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png) 
 
 https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png 
+
+# 404
+
+![404.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.png 
+
+![friend_404.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.png 
+
+# Logo 
+
+![logo.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo.png) 
+
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo.png 
 
 ![apple-touch-icon-silver.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/apple-touch-icon-silver.png) 
 
@@ -23,10 +47,6 @@ https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/apple-touch-icon.png
 ![favicon-silver.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon-silver.png) 
 
 https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon-silver.png 
-
-![favicon.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.png) 
-
-https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/favicon.png 
 
 ![logo-gold.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo-gold.png) 
 
@@ -56,8 +76,6 @@ https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo-silver03.png
 
 https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo-silver262.png 
 
-![logo.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo.png) 
 
-https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/logo.png 
 
 
