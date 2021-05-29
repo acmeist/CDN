@@ -22,13 +22,13 @@ https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/icp.png
 
 # 404
 
-![404.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.png) 
+![404.jpg](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.jpg) 
 
-https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.png 
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/404.jpg 
 
-![friend_404.png](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.png) 
+![friend_404.gif](https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.gif) 
 
-https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.png 
+https://cdn.jsdelivr.net/gh/acmeist/CDN/www/img/friend_404.gif 
 
 # Logo 
 
